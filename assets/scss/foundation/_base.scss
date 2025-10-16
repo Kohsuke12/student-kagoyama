@@ -1,0 +1,30 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color: #555555;
+    font-family: "游ゴシック体", 
+        "YuGothic", "游ゴシック Medium", 
+        "Yu Gothic Medium", "游ゴシック", 
+        "Yu Gothic", "メイリオ",
+        "Archivo Narrow", sans-serif;
+    // font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+}
+
+img {
+    max-width: 100%;
+}
+
+:root {
+    --primary-white: #fff;
+    --primary-text: #555555;
+    --primary-accent:#F7B560;
+    --primary-green:#93C572;
+    --primary-bg:#F9F9F9;
+    --contentWidth: 90.6%;
+    --contentPadding: 2.7%;
+}
